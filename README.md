@@ -6,6 +6,10 @@ This repository contains an in-depth analysis focusing on factors influencing em
 ## Dataset Description
 The analysis utilizes a dataset from Kaggle encompassing various HR metrics such as salary, job satisfaction, performance ratings, department, and work history.
 
+## Repository Contents
+- `GDIT_Analysis.ipynb`: Contains all the analyses, including EDA, modeling, and visualization.
+- `HR_Analytics.csv`: The aforementioned dataset used for the analysis.
+
 ## Analysis Summary
 - Conducted Exploratory Data Analysis (EDA) to identify initial correlations and data distribution.
 - Developed predictive models (Logistic Regression, Random Forest, Gradient Boosting) to analyze job satisfaction and performance ratings, facing challenges with class imbalance.
